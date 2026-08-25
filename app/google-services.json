@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "74701528520",
+    "firebase_url": "https://expoguia-fe11f-default-rtdb.firebaseio.com",
+    "project_id": "expoguia-fe11f",
+    "storage_bucket": "expoguia-fe11f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74701528520:android:bfbead2ed3009623c234fd",
+        "android_client_info": {
+          "package_name": "com.expoguia.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjSTlQHiUUjwZmkYq46CVJzWyKEgZnBNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

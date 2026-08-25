@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ExpoGuia"
 include(":app")
+include(":tv")
