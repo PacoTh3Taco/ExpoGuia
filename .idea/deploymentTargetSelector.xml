@@ -15,7 +15,7 @@
       </SelectionState>
       <SelectionState runConfigName="tv">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2026-08-25T13:42:55.061846300Z">
+        <DropdownSelection timestamp="2026-08-25T14:31:05.217380200Z">
           <Target type="DEFAULT_BOOT">
             <handle>
               <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\Aurelio\.android\avd\Android_TV_1080p.avd" />
